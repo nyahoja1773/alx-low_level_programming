@@ -2,6 +2,7 @@
 /*
  * this function prints without using printf
  */
+/*the main function*/
 int main(void)
 {
 	/*this one is the function*/
