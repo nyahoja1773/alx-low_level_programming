@@ -1,8 +1,9 @@
 #include<stdio.h>
-/*
- * this function prints without using printf
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
-/*the main function*/
 int main(void)
 {
 	/*this one is the function*/
