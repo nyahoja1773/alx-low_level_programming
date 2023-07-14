@@ -1,4 +1,4 @@
-#include<stdio.h
+#include<stdio.h>
 /* this function prints without using printf
  */
 int main(void)
